@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Asagity Connect for Wearable</string>
+    <string name="app_launcher_name">Asagity Connect</string>
+    <string name="welcome_title">欢迎！</string>
+    <string name="waiting_for_connection">等待连接移动 App…</string>
+    <string name="debug_options">调试选项</string>
+    <string name="debug_back">返回</string>
+    <string name="debug_version">版本 %1$s（%2$d）</string>
+    <string name="debug_action_pairing_done">配对完成</string>
+    <string name="debug_action_enter_home">进入主页</string>
+    <string name="debug_action_being_found">本设备被查找中</string>
+    <string name="debug_action_find_device">查找设备</string>
+    <string name="device_type_phone">手机</string>
+    <string name="device_type_tablet">平板</string>
+    <string name="find_action">查找</string>
+    <string name="find_stop">停止</string>
+    <string name="find_searching">正在查找中…</string>
+    <string name="find_receive_title">本设备正在被查找</string>
+</resources>
